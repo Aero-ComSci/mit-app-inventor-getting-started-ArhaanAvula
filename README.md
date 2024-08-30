@@ -6,4 +6,4 @@
 ## CookieSim Device(External)
 ![Screenshot 2024-08-30 121251](https://github.com/user-attachments/assets/4310125f-2461-4d44-87da-9c52fbd62799)
 
-Something that was difficult on this project was navigating through blocks tab in Mit App Inventor. In particular, finding the necessary blocks in the different cattegories for the components was a challenge. 
+Something that was difficult on this project was navigating through blocks tab in Mit App Inventor. In particular, finding the necessary blocks in the different categories for the components was a challenge. 
